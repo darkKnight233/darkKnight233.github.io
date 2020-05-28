@@ -1194,7 +1194,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff46ff;
+  background: #c70e52;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2362,6 +2362,7 @@ mjx-container + br {
   top: 0;
   width: 300px;
   opacity: 0.9;
+  z-index: 10;
 }
 @media (min-width: 1200px) {
   .header-inner {
