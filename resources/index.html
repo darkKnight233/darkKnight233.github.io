@@ -476,13 +476,12 @@ $(document).ready(function() {
 //
 //  //�ļ�����
 //  //�ļ�����
-//   //���Լ��٣����ٿ���
-// 
+//   //���Լ��٣����ٿ��� 
 
 
 <script>
 NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
-  NexT.utils.getScript('../js/Valine.min0.js', () => {
+  NexT.utils.getScript('https://github.com/pengqi/someFiles/blob/master/Valine.min0.js', () => {
     var GUEST = ['nick', 'mail', 'link'];
     var guest = 'nick,mail,link';
     guest = guest.split(',').filter(item => {
