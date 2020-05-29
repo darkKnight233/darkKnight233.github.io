@@ -550,9 +550,10 @@ $(document).ready(function() {
   
 //
 //<script src="../js/Valine.min.js"></script>
+
 <script>
 NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
-  NexT.utils.getScript('../js/Valine.min.js.lnk', () => {
+  NexT.utils.getScript('//github.com/pengqi/someFiles/blob/master/js/Valine.min.js', () => {
     var GUEST = ['nick', 'mail', 'link'];
     var guest = 'nick,mail,link';
     guest = guest.split(',').filter(item => {
