@@ -475,11 +475,12 @@ $(document).ready(function() {
 //<script src="../js/Valine.min.js"></script>
 //
 //
+//   //���Լ���
 
 
 <script>
 NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
-  NexT.utils.getScript('//github.com/pengqi/someFiles/blob/master/js/Valine.min0.js', () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/gh/pengqi/someFiles/js/Valine.min0.js', () => {
     var GUEST = ['nick', 'mail', 'link'];
     var guest = 'nick,mail,link';
     guest = guest.split(',').filter(item => {
