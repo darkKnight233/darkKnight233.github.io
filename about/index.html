@@ -477,7 +477,7 @@ $(document).ready(function() {
 
 <script>
 NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/gh/pengqi/someFiles/Valine.min145.js', () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/gh/pengqi/someFiles/Valine.min3.js', () => {
     var GUEST = ['nick', 'mail', 'link'];
     var guest = 'nick,mail,link';
     guest = guest.split(',').filter(item => {
@@ -498,12 +498,6 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
       path       : location.pathname,
       recordIP   : false,
       serverURLs : ''
-      // ����Bilibili�������ַ
-      emojiCDN: '//i0.hdslb.com/bfs/emote/', 
-      // ����title��ͼƬӳ��
-      emojiMaps: {
-     "tv_doge": "6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png",
-        // ... �������
     }
     });
   }, window.Valine);
