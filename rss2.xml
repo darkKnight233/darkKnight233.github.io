@@ -9,8 +9,29 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sat, 30 May 2020 09:18:07 GMT</pubDate>
+    <pubDate>Sat, 30 May 2020 11:47:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>test_回到公众号</title>
+      <link>https://darkknight233.github.io/archives/34163.html</link>
+      <guid>https://darkknight233.github.io/archives/34163.html</guid>
+      <pubDate>Sat, 30 May 2020 11:45:48 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/kYkUDZIkVMWT5A6Te9jwHw&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;文章一&lt;/a&gt;&lt;/p&gt;
+
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<p><a href="https://mp.weixin.qq.com/s/kYkUDZIkVMWT5A6Te9jwHw" target="_blank" rel="noopener external nofollow noreferrer">文章一</a></p>]]></content:encoded>
+      
+      <comments>https://darkknight233.github.io/archives/34163.html#disqus_thread</comments>
+    </item>
     
     <item>
       <title>one</title>
