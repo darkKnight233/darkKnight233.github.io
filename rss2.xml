@@ -9,7 +9,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Thu, 28 May 2020 09:51:48 GMT</pubDate>
+    <pubDate>Sat, 30 May 2020 00:58:16 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -21,14 +21,13 @@
       
         
         
-          &lt;p&gt;###第一个留言板&lt;/p&gt;
-
+          &lt;h3 id=&quot;第一个留言板&quot;&gt;&lt;a href=&quot;#第一个留言板&quot; class=&quot;headerlink&quot; title=&quot;第一个留言板&quot;&gt;&lt;/a&gt;第一个留言板&lt;/h3&gt;
         
       
       </description>
       
       
-      <content:encoded><![CDATA[<p>###第一个留言板</p>]]></content:encoded>
+      <content:encoded><![CDATA[<h3 id="第一个留言板"><a href="#第一个留言板" class="headerlink" title="第一个留言板"></a>第一个留言板</h3>]]></content:encoded>
       
       <comments>https://darkknight233.github.io/one/#disqus_thread</comments>
     </item>

@@ -8,7 +8,7 @@
       <link href="/one/"/>
       <url>/one/</url>
       
-        <content type="html"><![CDATA[<p>###第一个留言板</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="第一个留言板"><a href="#第一个留言板" class="headerlink" title="第一个留言板"></a>第一个留言板</h3>]]></content>
       
       
       
