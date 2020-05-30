@@ -475,9 +475,11 @@ $(document).ready(function() {
 
   
 
+//
+
 <script>
 NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
-  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+  NexT.utils.getScript('../js/Valine.min.js', () => {
     var GUEST = ['nick', 'mail', 'link'];
     var guest = 'nick,mail,link';
     guest = guest.split(',').filter(item => {
@@ -498,7 +500,6 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
       path       : location.pathname,
       recordIP   : false,
       serverURLs : ''
-    }
     });
   }, window.Valine);
 });
