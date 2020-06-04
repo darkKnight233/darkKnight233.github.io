@@ -103,8 +103,6 @@ theme: next
 deploy:
   type: git
   repo: git@two.github.com:darkknight233/darkknight233.github.io.git #你的仓库地址
-      ##github: git@two.github.com:darkknight233/darkknight233.github.io.git #你的仓库地址
-      ##coding: git@e.coding.net:pengqi79/darkKnight233.git #你的仓库地址
   branch: master
 type: baidu_url_submitter 
 
